@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Ajustes"],{"87cd":function(t,e,n){"use strict";n.r(e);var c=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},u=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",[n("h1",[t._v("AJUSTES")])])}],o={data:function(){return{}},components:{},mounted:function(){},created:function(){},computed:{},methods:{}},r=o,s=n("2877"),a=Object(s["a"])(r,c,u,!1,null,"3f657336",null);e["default"]=a.exports}}]);
+//# sourceMappingURL=Ajustes.4a5d8f90.js.map

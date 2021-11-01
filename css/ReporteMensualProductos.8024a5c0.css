@@ -1,0 +1,1 @@
+.overlay-collapsed{opacity:0;display:none}.overlay-show{opacity:1;transition:all .1s ease-out;z-index:10001;position:fixed;top:0;left:0;right:0;bottom:0;width:100vw;height:100vh;background:rgba(0,0,0,.8);backdrop-filter:blur(2px);-webkit-backdrop-filter:blur(2px)}.labelSize[data-v-ce00da9e]{font-size:20px;font-weight:700}
